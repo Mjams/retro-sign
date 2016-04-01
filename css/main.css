@@ -55,6 +55,6 @@ svg {
   }
 }
 
-.is-engaged .btn path:nth-child(2){
+.is-engaged .btn path:nth-child(2) {
   fill: #f60;
 }
